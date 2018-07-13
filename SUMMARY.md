@@ -7,5 +7,5 @@
   * [账户信息修改](first-question/zhang-hu-xin-xi-xiu-gai.md)
   * [账户信息管理](first-question/zhang-hu-xin-xi-guan-li.md)
   * [账户注销](first-question/zhang-hu-zhu-xiao.md)
-* [How can I do X?](second-question.md)
+* [ 账务管理](second-question.md)
 
