@@ -1,6 +1,8 @@
-# Summary
+# Table of contents
 
-* [帮助中心](README.md)
-* [账户管理](first-question.md)
-* [ 账务管理](second-question.md)
+* [超级付帮助中心](README.md)
+* [开始](kai-shi/README.md)
+  * [了解超级付](kai-shi/le-jie-chao-ji-fu.md)
+* [账号体系](zhang-hao-guan-li/README.md)
+  * [账号注册](zhang-hao-guan-li/zhang-hao-zhu-ce.md)
 
