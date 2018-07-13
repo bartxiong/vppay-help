@@ -4,8 +4,7 @@
     "-fontsettings",
     "-sharing" 
     ],
-    
-  "structure": {
+  "structure": [
      "readme": "home-page-description.md"
-  }
+  ]
 }
