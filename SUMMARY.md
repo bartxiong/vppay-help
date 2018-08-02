@@ -8,4 +8,6 @@
 * [结算功能](jie-suan-gong-neng/README.md)
   * [商户结算](jie-suan-gong-neng/shang-hu-jie-suan.md)
 * [提示：平台商户没有对应产品](ti-shi-ping-tai-shang-hu-mei-you-dui-ying-chan-pin.md)
+* [微信H5支付常见错误](wei-xin-h5-zhi-fu-chang-jian-cuo-wu.md)
+* [商户订单号在超级付查询不到](shang-hu-ding-dan-hao-zai-chao-ji-fu-cha-xun-bu-dao.md)
 
